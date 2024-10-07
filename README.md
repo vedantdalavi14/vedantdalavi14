@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/vedantdalavi14/vedantdalavi14/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vedantdalavi14.vedantdalavi14" />
 
 <h1 align="center">
