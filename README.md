@@ -72,12 +72,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-&nbsp;<img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=vedantdalavi14&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="vedantdalavi14" />
-<img width=390 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdalavi14&count_private=true&theme=react&border_radius=10" alt="vedantdalavi14" />
+&nbsp;<img width=400 height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=vedantdalavi14&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="vedantdalavi14" />
+<img width=400 height=250 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdalavi14&count_private=true&theme=react&border_radius=10" alt="vedantdalavi14" />
 <br/>
+<br>
+<p>
 <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantdalavi14&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="vedantdalavi14" />
-
-
+</p>
 <br/><br/>
 
 <hr/>
