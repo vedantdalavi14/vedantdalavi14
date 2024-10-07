@@ -70,8 +70,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
 &nbsp;<img width=400 height=250 align="left" src="https://github-readme-stats.vercel.app/api?username=vedantdalavi14&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="vedantdalavi14" />
 <img width=400 height=250 align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantdalavi14&count_private=true&theme=react&border_radius=10" alt="vedantdalavi14" />
 <br/>
