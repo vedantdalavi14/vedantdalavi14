@@ -10,7 +10,7 @@
   <a href="mailto:vedantdalavi14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://linkedin.com/in/vedant-dalavi-175419331" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/vedant_dalavi14/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://leetcode.com/u/vedantdalavi14/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" /></a>
+  <a href="https://leetcode.com/u/vedantdalavi14/" target="_blank"><img src="leetcode.png" alt="LeetCode" height="48" /></a>
 </p>
 
 ---
