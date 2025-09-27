@@ -148,6 +148,10 @@
 </table>
 
 ---
+<div align="center">
+![snake gif](https://github.com/vedantdalavi14/vedantdalavi14/blob/output/github-snake-dark.svg)
+</div>
+---
 
 ### 📊 GitHub Stats
 
