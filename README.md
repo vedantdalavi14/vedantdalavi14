@@ -149,7 +149,7 @@
 
 ---
 <div align="center">
-![snake gif](https://raw.githubusercontent.com/vedantdalavi14/vedantdalavi14/output/github-snake-dark.svg?v=1)
+  <img src="https://github.com/vedantdalavi14/vedantdalavi14/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
 ---
