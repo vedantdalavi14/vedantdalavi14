@@ -151,6 +151,7 @@
 <div align="center">
 ![snake gif](https://raw.githubusercontent.com/vedantdalavi14/vedantdalavi14/output/github-snake-dark.svg)
 </div>
+
 ---
 
 ### 📊 GitHub Stats
